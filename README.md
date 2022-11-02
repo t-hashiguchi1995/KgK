@@ -18,3 +18,4 @@ LB：13897.3998533
 - geocoder.ipynb：Google Map APIを使ったジオコーディング+pyprojで各種主要施設への距離などを追加
 - nlp_feature.ipynb：TF-IDFを使った似ている物件の検索。犯罪データが所在地で追加するものだったので、結合のための粒度合わせ
 - adversarial-validation-on-ieee-fe-with-some-eda.ipynb：ネットで調べて見つけたKaggleのコード
+- check_cv.ipynb：CVの結果から補正値と閾値の決定
