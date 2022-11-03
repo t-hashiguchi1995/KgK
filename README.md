@@ -11,7 +11,6 @@ CV：9872, 17460
 LB：13897.3998533
 
 ## 各種コードのやってる内容
-- add_category_feature.ipynb：元データにある「バス・トイレ」などのカラムをすべて数値特徴に変換する
 - add_targetencoding.ipynb：ターゲットエンコーディング+その他特徴の追加など
 - geocoder.ipynb：Google Map APIを使ったジオコーディング+pyprojで各種主要施設への距離などを追加
 - nlp_feature.ipynb：TF-IDFを使った似ている物件の検索。犯罪データが所在地で追加するものだったので、結合のための粒度合わせ
